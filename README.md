@@ -1,8 +1,14 @@
 # qrator
 ## A Qr code creator and scanner
+.
+.
+.
+.
+## Download the apk file here:
 
-##here are some screenshots:
-##please do star and fork ( not what you are thinking dude )
+
+## here are some screenshots:
+## please do star and fork ( not what you are thinking dude )
 
 ![Screenshot_20210613-210007](https://user-images.githubusercontent.com/76884551/121820625-dcb06400-cc8b-11eb-8e2c-33e5d640aeb3.png)
 ![Screenshot_20210613-210111](https://user-images.githubusercontent.com/76884551/121820630-e043eb00-cc8b-11eb-92bd-6bc4d0d8b7c9.png)
